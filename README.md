@@ -1,5 +1,8 @@
 # DVD-Rental-Store-Analysis
 
+![movie](https://github.com/madhavyawale7/DVD-Rental-Store-Analysis/assets/159420665/516c31c2-2b43-47e1-8b82-ec18790b7569)
+
+
 # Project Summary
 
 This project embarked on a comprehensive exploration of the Sakila DVD Rental Store Database, traversing through several crucial phases. It commenced with the acquisition of the dataset from a Github repository, serving as the cornerstone for subsequent analyses. The journey unfolded with an in-depth exploratory data analysis (EDA), illuminating nuanced insights into customer behaviors, film inventory dynamics, staff productivity, and revenue patterns.
