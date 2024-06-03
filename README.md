@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Dashboard](#Dashboard)
+- [Dashboard Image](#Dashboard)
 - [Insight](#Insight)
 - [EDA File](https://github.com/madhavyawale7/DVD-Rental-Store-Analysis/blob/main/EDA%20Of%20Movie%20Rental%20Analytics.xlsx)
 - [Power BI File](https://github.com/madhavyawale7/DVD-Rental-Store-Analysis/blob/main/Power%20Bi%20Of%20Movie%20Rental%20Analytics.pbix)
