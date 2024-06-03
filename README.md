@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
 - [Dashboard](#Dashboard)
 - [Insight](#Insight)
-- [EDA File]
+- [EDA File](https://github.com/madhavyawale7/DVD-Rental-Store-Analysis/blob/main/EDA%20Of%20Movie%20Rental%20Analytics.xlsx)
 - [Power BI File]
 - [MECE Breakdown]
 - [Word Document]
