@@ -7,7 +7,10 @@
 - [Introduction](#introduction)
 - [Dashboard](#Dashboard)
 - [Insight](#Insight)
-- [DATA](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/blob/main/DATA/Flipkart_Sales_Analysis.csv)
+- [EDA File]
+- [Power BI File]
+- [MECE Breakdown]
+- [Word Document]
 
   
 # Introduction
